@@ -1,6 +1,5 @@
 # A--AI-Maze-solver
-##Play live here : [LIVE](https://replit.com/@prilily/aalgo-1?v=1)
-
+# Play live here : [LIVE](https://replit.com/@prilily/aalgo-1?v=1)
 
 Implementation of A* algorithm (in Python):an artificial intelligence problem used for the path-finding &amp;the Graph traversals
 
